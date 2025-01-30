@@ -18,11 +18,21 @@
 
 *[Acceso al proyecto](#acceso-proyecto)
 
+<br>
+<br>
 
 \## 📁 Descripción del proyecto
 
 **Primer proyecto del programa de Oracle One que consiste en programar las funcionalidades para una web que elige un nombre aleatoriamente en base a los nombres ingresados en la web**
+<br>
+<br>
 
 \## 📁 Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+**Puedes acceder directamente al proyexto en Github con el siguiente enlace https://github.com/Luismrr/challenge-amigo-secreto.git**
+
+
+## Autores
+
+ [<img src="https://avatars.githubusercontent.com/u//20820316?v=4" width=115><br><sub>Luis Rivera</sub>](https://github.com/Luismrr) 
+
